@@ -1,0 +1,26 @@
+{
+  "name": "manipulator",
+  "version": "1.0.0",
+  "description": "Manipulação de variaveis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbrmaia/APImanipulacao.git"
+  },
+  "keywords": [
+    "manipulação"
+  ],
+  "author": "Gabriel Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbrmaia/APImanipulacao/issues"
+  },
+  "homepage": "https://github.com/gbrmaia/APImanipulacao#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
